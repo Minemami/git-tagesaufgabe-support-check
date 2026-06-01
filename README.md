@@ -10,4 +10,3 @@ Themen der Aufgabe:
 - git reset
 - git fetch
 - git pull
-- Remote-Aenderung: Diese Zeile wurde direkt auf GitHub hinzugefuegt.
